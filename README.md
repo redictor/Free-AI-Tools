@@ -6,6 +6,14 @@ A curated list of useful AI tools for writing, design, coding, research, video, 
 
 > Last updated: April 2026
 
+## A Brief Introduction
+
+For a long time, I’ve been running into the same problem: there are simply too many lists of AI tools out there—most of which are either outdated or full of fluff.
+
+So, I came up with the idea to create this simple, up-to-date list of AI tools!
+
+This repository is a practical collection of AI tools that are truly worth trying. It doesn't matter whether you write, design, program, study, edit videos, or are simply looking for ways to save time on routine tasks.
+
 ## Contents
 
 - [Chat & Search](#chat--search)
