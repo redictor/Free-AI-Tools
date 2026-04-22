@@ -3,6 +3,7 @@
 A curated list of useful AI tools for writing, design, coding, research, video, audio, and productivity.
 
 > Clean, practical, and regularly updated.
+
 > Last updated: April 2026
 
 ## Contents
