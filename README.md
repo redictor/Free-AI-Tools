@@ -27,7 +27,6 @@ This repository is a practical collection of AI tools that are truly worth tryin
 - [Presentation Tools](#presentation-tools)
 - [How This List Is Organized](#how-this-list-is-organized)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
