@@ -386,12 +386,12 @@ This repository is a practical collection of AI tools that are truly worth tryin
 - **Rating:** 8.5/10
 - **Link:** https://www.beautiful.ai
 
-### 47. Tome
+### 47. Tome (Outdated, I'll replace it soon)
 - **Category:** AI presentation/storytelling
 - **Best for:** visual storytelling and quick presentations
 - **Why use it:** Tome is useful when you want presentations to feel more narrative and modern. It works well for early ideas, pitch-style storytelling, and quick visual communication that does not need to be overdesigned.
 - **Rating:** 8.2/10
-- **Link:** https://tome.app
+- **Link:** https://tome.app (does't work)
 
 ---
 
