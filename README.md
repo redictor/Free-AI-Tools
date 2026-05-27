@@ -124,42 +124,49 @@ This repository is a practical collection of AI tools that are truly worth tryin
 
 ## Image Generation & Design
 
-### 13. Midjourney
+### 13. PhotoRestore.ai
+- **Category:** Photo restoration & enhancement
+- **Best for:** restoring old, damaged, or faded photos
+- **Why use it:** PhotoRestore.ai uses AI to automatically repair scratches, tears, fading, and damage in old photos. It also colorizes black-and-white images. If you have old family photos or historical images that need rescuing, this is one of the simplest and fastest ways to do it without any manual editing.
+- **Rating:** 9.0/10
+- **Link:** https://photorestore.ai
+
+### 15. Midjourney
 - **Category:** Image generation
 - **Best for:** high-quality artistic visuals
 - **Why use it:** Midjourney is widely used because it consistently produces strong-looking images with a polished, creative feel. It is especially good for concept art, branding ideas, moodboards, and visuals that need to look impressive without hours of manual design work.
 - **Rating:** 9.4/10
 - **Link:** https://www.midjourney.com
 
-### 14. Leonardo AI
+### 15. Leonardo AI
 - **Category:** Image generation
 - **Best for:** design assets, concept art, game visuals
 - **Why use it:** Leonardo AI gives you a bit more flexibility when you need assets that feel tailored to a project. It is popular for design work, game-related visuals, and creative experimentation where control matters as much as style.
 - **Rating:** 9.0/10
 - **Link:** https://leonardo.ai
 
-### 15. Adobe Firefly
+### 16. Adobe Firefly
 - **Category:** Design AI
 - **Best for:** graphics, commercial-friendly creative work
 - **Why use it:** Firefly makes the most sense for people already using Adobe products. It fits neatly into existing creative workflows and is useful when you want AI features without leaving the tools you already know.
 - **Rating:** 8.7/10
 - **Link:** https://firefly.adobe.com
 
-### 16. Canva
+### 17. Canva
 - **Category:** Design platform
 - **Best for:** social posts, simple graphics, quick designs
 - **Why use it:** Canva is popular because it makes design accessible even if you are not a designer. It is fast, simple, and practical for creating social media graphics, presentations, simple brand assets, and everyday visual content.
 - **Rating:** 9.1/10
 - **Link:** https://www.canva.com
 
-### 17. Ideogram
+### 18. Ideogram
 - **Category:** Image generation
 - **Best for:** visuals with text
 - **Why use it:** Ideogram stands out because it handles text inside images better than many other image tools. That makes it especially useful for posters, covers, thumbnails, and other designs where typography matters.
 - **Rating:** 8.8/10
 - **Link:** https://ideogram.ai
 
-### 18. Playground AI
+### 19. Playground AI
 - **Category:** Image generation
 - **Best for:** experimenting with styles
 - **Why use it:** Playground AI is approachable and easy to jump into, which makes it great for testing ideas quickly. It is a good choice when you want to explore different looks without feeling locked into a heavy workflow.
@@ -170,35 +177,35 @@ This repository is a practical collection of AI tools that are truly worth tryin
 
 ## Video
 
-### 19. Runway
+### 20. Runway
 - **Category:** AI video
 - **Best for:** video generation and editing
 - **Why use it:** Runway is one of the best-known names in AI video for a reason. It is useful for both generating clips and speeding up editing tasks, which makes it valuable for creators who want to experiment quickly without losing too much control.
 - **Rating:** 9.2/10
 - **Link:** https://runwayml.com
 
-### 20. Pika
+### 21. Pika
 - **Category:** AI video
 - **Best for:** short creative video generation
 - **Why use it:** Pika is a good fit when you want fast, visually interesting clips without overcomplicating the process. It is especially useful for short-form content, ideas, and testing creative concepts before spending more time on production.
 - **Rating:** 8.8/10
 - **Link:** https://pika.art
 
-### 21. CapCut
+### 22. CapCut
 - **Category:** Video editor
 - **Best for:** editing short-form content
 - **Why use it:** CapCut is practical, fast, and beginner-friendly, which is why so many people use it for short videos. It helps with editing, captions, and social-first content without demanding a steep learning curve.
 - **Rating:** 9.0/10
 - **Link:** https://www.capcut.com
 
-### 22. Descript
+### 23. Descript
 - **Category:** Video and podcast editing
 - **Best for:** editing by text, screen recordings, voice cleanup
 - **Why use it:** Descript is useful because it simplifies editing in a way that feels intuitive, especially for spoken content. If you work with podcasts, voiceovers, tutorials, or recorded interviews, it can save a lot of time.
 - **Rating:** 8.9/10
 - **Link:** https://www.descript.com
 
-### 23. Synthesia
+### 24. Synthesia
 - **Category:** AI avatar video
 - **Best for:** explainer and training videos
 - **Why use it:** Synthesia is designed for people who need polished talking-head style videos without filming themselves. It is especially practical for training content, onboarding, explainers, and business presentations.
@@ -209,35 +216,35 @@ This repository is a practical collection of AI tools that are truly worth tryin
 
 ## Audio
 
-### 24. ElevenLabs
+### 25. ElevenLabs
 - **Category:** Voice AI
 - **Best for:** text-to-speech, voiceovers
 - **Why use it:** ElevenLabs is one of the strongest tools for realistic voice generation. It is especially useful for narration, videos, demos, and projects where robotic-sounding audio would immediately ruin the result.
 - **Rating:** 9.5/10
 - **Link:** https://elevenlabs.io
 
-### 25. Otter
+### 26. Otter
 - **Category:** Transcription
 - **Best for:** meetings, lecture notes, call summaries
 - **Why use it:** Otter is practical because it turns spoken conversations into searchable notes with very little effort. It is useful for meetings, interviews, classes, and any situation where writing everything down manually would be a waste of time.
 - **Rating:** 8.9/10
 - **Link:** https://otter.ai
 
-### 26. Murf
+### 27. Murf
 - **Category:** Voice generator
 - **Best for:** presentations, narration, voice content
 - **Why use it:** Murf is a solid option for people who need clean voice output for presentations or content without setting up a complicated audio workflow. It is easy to use and good for professional-style narration.
 - **Rating:** 8.3/10
 - **Link:** https://murf.ai
 
-### 27. Suno
+### 28. Suno
 - **Category:** AI music
 - **Best for:** generating songs and music ideas
 - **Why use it:** Suno is fun to use, but it is also surprisingly capable when you want quick music concepts. It works well for experimentation, demos, personal projects, and creative play without requiring music production skills.
 - **Rating:** 8.8/10
 - **Link:** https://suno.com
 
-### 28. Auphonic
+### 29. Auphonic
 - **Category:** Audio enhancement
 - **Best for:** podcasts and voice cleanup
 - **Why use it:** Auphonic is useful because it handles the kind of cleanup that normally takes extra time and attention. It is especially helpful for podcasting, interviews, and voice recordings that need to sound cleaner with minimal effort.
@@ -248,42 +255,42 @@ This repository is a practical collection of AI tools that are truly worth tryin
 
 ## Coding
 
-### 29. GitHub Copilot
+### 30. GitHub Copilot
 - **Category:** Coding assistant
 - **Best for:** code suggestions, boilerplate, productivity
 - **Why use it:** GitHub Copilot is popular because it genuinely speeds up everyday coding. It is especially helpful for boilerplate, repetitive tasks, and getting unstuck when you already know roughly what you want to build.
 - **Rating:** 9.3/10
 - **Link:** https://github.com/features/copilot
 
-### 30. Cursor
+### 31. Cursor
 - **Category:** AI code editor
 - **Best for:** AI-assisted development workflows
 - **Why use it:** Cursor has become popular because it makes AI feel built into the coding process rather than bolted on. It is useful for editing, refactoring, navigating code, and staying inside one workflow while getting AI help.
 - **Rating:** 9.1/10
 - **Link:** https://www.cursor.com
 
-### 31. Replit
+### 32. Replit
 - **Category:** Online coding platform
 - **Best for:** quick prototyping and browser-based development
 - **Why use it:** Replit is great when you want to start building immediately without worrying about local setup. It is especially useful for small projects, experiments, learning, and fast prototypes you want to share quickly.
 - **Rating:** 8.6/10
 - **Link:** https://replit.com
 
-### 32. Codeium
+### 33. Codeium
 - **Category:** Coding assistant
 - **Best for:** code completion and support
 - **Why use it:** Codeium is a good alternative for developers who want AI support in their editor without overcomplicating things. It helps with completion, suggestions, and speeding up routine coding work.
 - **Rating:** 8.7/10
 - **Link:** https://codeium.com
 
-### 33. Phind
+### 34. Phind
 - **Category:** Developer search
 - **Best for:** programming questions and technical search
 - **Why use it:** Phind is focused on developer workflows, which makes it useful when general AI tools feel too broad. It works well for debugging questions, technical explanations, and finding answers that are actually relevant to programming.
 - **Rating:** 8.8/10
 - **Link:** https://www.phind.com
 
-### 34. Tabnine
+### 35. Tabnine
 - **Category:** Coding assistant
 - **Best for:** autocomplete and developer productivity
 - **Why use it:** Tabnine has been around long enough to feel stable and familiar. It is useful for developers who mainly want reliable autocomplete support and incremental speed improvements rather than a full AI-driven workflow.
@@ -294,35 +301,35 @@ This repository is a practical collection of AI tools that are truly worth tryin
 
 ## Research & Learning
 
-### 35. NotebookLM
+### 36. NotebookLM
 - **Category:** Research assistant
 - **Best for:** working with your own notes and sources
 - **Why use it:** NotebookLM is especially useful when your research depends on material you already have. It helps turn notes, documents, and sources into something easier to explore, summarize, and learn from.
 - **Rating:** 9.0/10
 - **Link:** https://notebooklm.google
 
-### 36. Elicit
+### 37. Elicit
 - **Category:** Research tool
 - **Best for:** academic search and literature review
 - **Why use it:** Elicit is helpful when you need to work through research papers more efficiently. It is designed for structured research tasks, which makes it useful for students, analysts, and anyone doing literature-heavy work.
 - **Rating:** 8.7/10
 - **Link:** https://elicit.com
 
-### 37. Consensus
+### 38. Consensus
 - **Category:** Research search engine
 - **Best for:** evidence-based questions and academic topics
 - **Why use it:** Consensus stands out because it is centered around research papers instead of general web content. It is useful when you want answers that feel more grounded in studies than in random articles or opinions.
 - **Rating:** 8.7/10
 - **Link:** https://consensus.app
 
-### 38. ChatPDF
+### 39. ChatPDF
 - **Category:** PDF assistant
 - **Best for:** asking questions about documents
 - **Why use it:** ChatPDF is simple, practical, and easy to understand. It is useful when you have a document but do not want to read the whole thing line by line before finding the parts that matter.
 - **Rating:** 8.8/10
 - **Link:** https://www.chatpdf.com
 
-### 39. Wolfram Alpha
+### 40. Wolfram Alpha
 - **Category:** Computational knowledge engine
 - **Best for:** math, data, technical queries
 - **Why use it:** Wolfram Alpha is especially strong for questions that need computation instead of conversation. It is a dependable tool for math, formulas, structured facts, and technical lookups where accuracy matters more than style.
@@ -333,35 +340,35 @@ This repository is a practical collection of AI tools that are truly worth tryin
 
 ## Productivity & Automation
 
-### 40. Zapier
+### 41. Zapier
 - **Category:** Automation
 - **Best for:** connecting apps and automating tasks
 - **Why use it:** Zapier is useful because it removes repetitive work without needing heavy technical skills. It is a practical choice for connecting common apps and saving time on routine processes that would otherwise be manual.
 - **Rating:** 9.1/10
 - **Link:** https://zapier.com
 
-### 41. Make
+### 42. Make
 - **Category:** Automation
 - **Best for:** visual workflow building
 - **Why use it:** Make is powerful for people who want more flexibility in how automations are built. It is a good choice when you want workflows that are more visual and customizable than simple one-step connections.
 - **Rating:** 9.0/10
 - **Link:** https://www.make.com
 
-### 42. Taskade
+### 43. Taskade
 - **Category:** Productivity
 - **Best for:** task management, outlines, collaboration
 - **Why use it:** Taskade is helpful for people who want notes, task planning, and AI help in one place. It works well for lightweight project organization without feeling overly heavy or corporate.
 - **Rating:** 8.3/10
 - **Link:** https://www.taskade.com
 
-### 43. Mem
+### 44. Mem
 - **Category:** Notes and organization
 - **Best for:** connected note-taking
 - **Why use it:** Mem is useful for capturing thoughts quickly and making them easier to find later. It is a good fit for people who want note-taking to feel lighter, smarter, and less rigid than traditional systems.
 - **Rating:** 8.1/10
 - **Link:** https://mem.ai
 
-### 44. Tana
+### 45. Tana
 - **Category:** Knowledge management
 - **Best for:** structured notes and workflows
 - **Why use it:** Tana is a strong option for people who like building structured systems around their thinking. It is especially useful for advanced note-takers, researchers, and people who treat information organization as part of their workflow.
@@ -372,21 +379,21 @@ This repository is a practical collection of AI tools that are truly worth tryin
 
 ## Presentation Tools
 
-### 45. Gamma
+### 46. Gamma
 - **Category:** Presentation maker
 - **Best for:** fast decks and docs
 - **Why use it:** Gamma is useful when you want to turn rough ideas into something presentable quickly. It is a good choice for people who need speed and clarity more than full manual control over every visual detail.
 - **Rating:** 8.8/10
 - **Link:** https://gamma.app
 
-### 46. Beautiful.ai
+### 47. Beautiful.ai
 - **Category:** Presentation tool
 - **Best for:** polished business presentations
 - **Why use it:** Beautiful.ai helps make slides look cleaner and more professional without requiring strong design skills. It is especially useful for business presentations where presentation quality matters but time is limited.
 - **Rating:** 8.5/10
 - **Link:** https://www.beautiful.ai
 
-### 47. Tome (Outdated, I'll replace it soon)
+### 48. Tome (Outdated, I'll replace it soon)
 - **Category:** AI presentation/storytelling
 - **Best for:** visual storytelling and quick presentations
 - **Why use it:** Tome is useful when you want presentations to feel more narrative and modern. It works well for early ideas, pitch-style storytelling, and quick visual communication that does not need to be overdesigned.
@@ -397,21 +404,21 @@ This repository is a practical collection of AI tools that are truly worth tryin
 
 ## Extra Useful Tools
 
-### 48. Character.AI
+### 49. Character.AI
 - **Category:** Conversational AI
 - **Best for:** entertainment, roleplay, creative interaction
 - **Why use it:** Character.AI is more about engagement and creativity than productivity. It is useful if you want interactive conversations, roleplay, or idea exploration in a format that feels more playful than standard assistants.
 - **Rating:** 7.9/10
 - **Link:** https://character.ai
 
-### 49. Poe
+### 50. Poe
 - **Category:** AI platform
 - **Best for:** trying multiple models in one place
 - **Why use it:** Poe is convenient because it gives you access to different models without making you jump between multiple separate tools. It is especially useful for comparison, experimentation, and casual multi-model use.
 - **Rating:** 8.4/10
 - **Link:** https://poe.com
 
-### 50. Pi
+### 51. Pi
 - **Category:** Conversational AI
 - **Best for:** friendly everyday conversation
 - **Why use it:** Pi feels more personal and conversational than many assistants, which makes it useful for casual check-ins, light support, or everyday dialogue. It is less about hard productivity and more about the experience of talking.
