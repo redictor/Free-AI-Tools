@@ -311,6 +311,13 @@ So I made this one: a short, practical list of AI tools that are actually worth 
 - **Rating:** 8.7/10
 - **Link:** https://devin.ai/desktop
 
+### YYLO
+- **Category:** Open-source coding agent orchestrator (CLI)
+- **Best for:** orchestrating CLI coding agents with validation and merge boundaries
+- **Why use it:** YYLO is a command-line orchestrator for coding agents, repeatable workflows, and receipt-backed repository changes. It is useful when you want typed task, validation, merge, and release-readiness boundaries around agent work, with isolated task worktrees and managed merging.
+- **Rating:** Community project
+- **Link:** https://github.com/yylo-dev/yylo
+
 ---
 
 ## Research & Learning
