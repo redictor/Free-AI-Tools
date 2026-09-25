@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/tools-50-2ea44f?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=24292e" alt="Tools">
+  <img src="https://img.shields.io/badge/tools-51-2ea44f?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=24292e" alt="Tools">
   <img src="https://img.shields.io/github/stars/redictor/Free-AI-Tools?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e&color=f1c40f" alt="GitHub stars">
   <img src="https://img.shields.io/github/last-commit/redictor/Free-AI-Tools?style=for-the-badge&logo=git&logoColor=white&labelColor=24292e&color=8e44ad" alt="Last commit">
   <a href="https://github.com/redictor/Free-AI-Tools/issues/new?template=tool-suggestion.md">
@@ -311,53 +311,54 @@ So I made this one: a short, practical list of AI tools that are actually worth 
 - **Rating:** 8.7/10
 - **Link:** https://devin.ai/desktop
 
-### YYLO
+### 36. YYLO
 - **Category:** Open-source coding agent orchestrator (CLI)
 - **Best for:** orchestrating CLI coding agents with validation and merge boundaries
-- **Why use it:** YYLO is a command-line orchestrator for coding agents, repeatable workflows, and receipt-backed repository changes. It is useful when you want typed task, validation, merge, and release-readiness boundaries around agent work, with isolated task worktrees and managed merging.
+- **Why use it:** YYLO runs several AI coding agents in parallel, each in its own Git worktree, and merges their results after validation. Aimed at advanced developers.
 - **Rating:** Community project
-- **Link:** https://github.com/yylo-dev/yylo
+- **Link:** https://github.com/yylo-dev/yylo<br>
+[Thanks [InsightFactoryAPP](https://github.com/InsightFactoryAPP)]
 
 ---
 
 ## Research & Learning
 
-### 36. Gemini Notebook (formerly NotebookLM)
+### 37. Gemini Notebook (formerly NotebookLM)
 - **Category:** Research assistant
 - **Best for:** working with your own notes and sources
 - **Why use it:** Gemini Notebook (renamed from NotebookLM in July 2026) is especially useful when your research depends on material you already have. It helps turn notes, documents, and sources into something easier to explore, summarize, and learn from.
 - **Rating:** 9.0/10
 - **Link:** https://notebooklm.google
 
-### 37. Elicit
+### 38. Elicit
 - **Category:** Research tool
 - **Best for:** academic search and literature review
 - **Why use it:** Elicit is helpful when you need to work through research papers more efficiently. It is designed for structured research tasks, which makes it useful for students, analysts, and anyone doing literature-heavy work.
 - **Rating:** 8.7/10
 - **Link:** https://elicit.com
 
-### 38. Consensus
+### 39. Consensus
 - **Category:** Research search engine
 - **Best for:** evidence-based questions and academic topics
 - **Why use it:** Consensus stands out because it is centered around research papers instead of general web content. It is useful when you want answers that feel more grounded in studies than in random articles or opinions.
 - **Rating:** 8.7/10
 - **Link:** https://consensus.app
 
-### 39. ChatPDF
+### 40. ChatPDF
 - **Category:** PDF assistant
 - **Best for:** asking questions about documents
 - **Why use it:** ChatPDF is simple, practical, and easy to understand. It is useful when you have a document but do not want to read the whole thing line by line before finding the parts that matter.
 - **Rating:** 8.8/10
 - **Link:** https://www.chatpdf.com
 
-### 40. Wolfram Alpha
+### 41. Wolfram Alpha
 - **Category:** Computational knowledge engine
 - **Best for:** math, data, technical queries
 - **Why use it:** Wolfram Alpha is especially strong for questions that need computation instead of conversation. It is a dependable tool for math, formulas, structured facts, and technical lookups where accuracy matters more than style.
 - **Rating:** 8.9/10
 - **Link:** https://www.wolframalpha.com
 
-### 41. InnerCanvas
+### 42. InnerCanvas
 - **Category:** AI drawing reflection tool
 - **Best for:** private self-reflection through guided drawing exercises (adults only, not a diagnosis)
 - **Why use it:** InnerCanvas turns classic drawing exercises like House-Tree-Person into AI reflection reports that separate what's visible in the drawing from questions worth exploring. A private self-reflection tool, not a diagnosis. Free to try.
@@ -369,35 +370,35 @@ So I made this one: a short, practical list of AI tools that are actually worth 
 
 ## Productivity & Automation
 
-### 42. Zapier
+### 43. Zapier
 - **Category:** Automation
 - **Best for:** connecting apps and automating tasks
 - **Why use it:** Zapier is useful because it removes repetitive work without needing heavy technical skills. It is a practical choice for connecting common apps and saving time on routine processes that would otherwise be manual.
 - **Rating:** 9.1/10
 - **Link:** https://zapier.com
 
-### 43. Make
+### 44. Make
 - **Category:** Automation
 - **Best for:** visual workflow building
 - **Why use it:** Make is powerful for people who want more flexibility in how automations are built. It is a good choice when you want workflows that are more visual and customizable than simple one-step connections.
 - **Rating:** 9.0/10
 - **Link:** https://www.make.com
 
-### 44. Taskade
+### 45. Taskade
 - **Category:** Productivity
 - **Best for:** task management, outlines, collaboration
 - **Why use it:** Taskade is helpful for people who want notes, task planning, and AI help in one place. It works well for lightweight project organization without feeling overly heavy or corporate.
 - **Rating:** 8.3/10
 - **Link:** https://www.taskade.com
 
-### 45. Mem
+### 46. Mem
 - **Category:** Notes and organization
 - **Best for:** connected note-taking
 - **Why use it:** Mem is useful for capturing thoughts quickly and making them easier to find later. It is a good fit for people who want note-taking to feel lighter, smarter, and less rigid than traditional systems.
 - **Rating:** 8.1/10
 - **Link:** https://mem.ai
 
-### 46. Tana
+### 47. Tana
 - **Category:** Knowledge management
 - **Best for:** structured notes and workflows
 - **Why use it:** Tana is a strong option for people who like building structured systems around their thinking. It is especially useful for advanced note-takers, researchers, and people who treat information organization as part of their workflow.
@@ -408,7 +409,7 @@ So I made this one: a short, practical list of AI tools that are actually worth 
 
 ## Presentation Tools
 
-### 47. Gamma
+### 48. Gamma
 - **Category:** Presentation maker
 - **Best for:** fast decks and docs
 - **Why use it:** Gamma is useful when you want to turn rough ideas into something presentable quickly. It is a good choice for people who need speed and clarity more than full manual control over every visual detail.
@@ -419,21 +420,21 @@ So I made this one: a short, practical list of AI tools that are actually worth 
 
 ## Extra Useful Tools
 
-### 48. Character.AI
+### 49. Character.AI
 - **Category:** Conversational AI (18+)
 - **Best for:** entertainment, roleplay, interactive storytelling
 - **Why use it:** Character.AI is built around roleplay and creative interaction with AI characters rather than productivity. Open-ended chats are available to adults only; users under 18 lost access in late 2025.
 - **Rating:** 7.9/10
 - **Link:** https://character.ai
 
-### 49. Poe
+### 50. Poe
 - **Category:** AI platform
 - **Best for:** trying multiple models in one place
 - **Why use it:** Poe is convenient because it gives you access to different models without making you jump between multiple separate tools. It is especially useful for comparison, experimentation, and casual multi-model use.
 - **Rating:** 8.4/10
 - **Link:** https://poe.com
 
-### 50. Pi
+### 51. Pi
 - **Category:** Conversational AI
 - **Best for:** friendly, low-pressure everyday conversation
 - **Why use it:** Pi is designed for warm, supportive dialogue rather than productivity tasks. Note that development has slowed since most of Inflection's team moved to Microsoft in 2024, and usage limits apply.
@@ -481,5 +482,5 @@ Please keep submissions:
 
 <p align="center">
   Made with ❤️ by <a href="https://github.com/redictor">redictor</a><br>
-  <sub>Contributors: <a href="https://github.com/Kayvan-Zahiri">Kayvan-Zahiri</a> · <a href="https://github.com/fendouai">fendouai</a> · <a href="https://github.com/futurearrived">futurearrived</a> · <a href="https://github.com/happynocode">happynocode</a></sub>
+  <sub>Contributors: <a href="https://github.com/Kayvan-Zahiri">Kayvan-Zahiri</a> · <a href="https://github.com/fendouai">fendouai</a> · <a href="https://github.com/futurearrived">futurearrived</a> · <a href="https://github.com/happynocode">happynocode</a> · <a href="https://github.com/InsightFactoryAPP">InsightFactoryAPP</a></sub>
 </p>
