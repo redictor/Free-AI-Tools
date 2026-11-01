@@ -102,6 +102,13 @@ So I made this one: a short, practical list of AI tools that are actually worth 
 - **Link:** https://withresumeai.com/<br>
 [Thanks [Kayvan Zahiri](https://github.com/Kayvan-Zahiri)]
 
+### 8b. CareJobs AI Career Tools
+- **Category:** Cover letter / Resume / Interview prep
+- **Best for:** healthcare job seekers: cover letters, resume bullets, interview practice, decoding job postings
+- **Why use it:** Six free AI writing tools for nurses, CNAs, techs and therapists: a cover letter generator, resume bullet writer, interview coach, job posting decoder, offer negotiation email writer and resignation letter generator. No sign-up, nothing stored, and anything the tool cannot know is left in brackets instead of invented.
+- **Rating:**
+- **Link:** https://carejobs.now/tools
+
 ### 9. QuillBot
 - **Category:** Rewriting tool
 - **Best for:** paraphrasing, rewriting drafts
