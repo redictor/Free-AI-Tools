@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/tools-52-2ea44f?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=24292e" alt="Tools">
+  <img src="https://img.shields.io/badge/tools-53-2ea44f?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=24292e" alt="Tools">
   <img src="https://img.shields.io/github/stars/redictor/Free-AI-Tools?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e&color=f1c40f" alt="GitHub stars">
   <img src="https://img.shields.io/github/last-commit/redictor/Free-AI-Tools?style=for-the-badge&logo=git&logoColor=white&labelColor=24292e&color=8e44ad" alt="Last commit">
   <a href="https://github.com/redictor/Free-AI-Tools/issues/new?template=tool-suggestion.md">
@@ -14,7 +14,7 @@
   </a>
 </p>
 
-> Last updated: October 2026
+> Last updated: November 2026
 
 ## A Brief Introduction
 
@@ -102,35 +102,36 @@ So I made this one: a short, practical list of AI tools that are actually worth 
 - **Link:** https://withresumeai.com/<br>
 [Thanks [Kayvan Zahiri](https://github.com/Kayvan-Zahiri)]
 
-### 8b. CareJobs AI Career Tools
-- **Category:** Cover letter / Resume / Interview prep
-- **Best for:** healthcare job seekers: cover letters, resume bullets, interview practice, decoding job postings
-- **Why use it:** Six free AI writing tools for nurses, CNAs, techs and therapists: a cover letter generator, resume bullet writer, interview coach, job posting decoder, offer negotiation email writer and resignation letter generator. No sign-up, nothing stored, and anything the tool cannot know is left in brackets instead of invented.
-- **Rating:**
-- **Link:** https://carejobs.now/tools
+### 9. CareJobs AI Career Tools
+- **Category:** AI career writing tools
+- **Best for:** healthcare resumes, cover letters, interview preparation
+- **Why use it:** CareJobs offers free AI writing tools designed for healthcare job seekers. They help create cover letters, improve resumes, prepare for interviews, and write professional emails. No sign-up required!
+- **Rating:** 8.3/10
+- **Link:** https://carejobs.now/tools<br>
+[Thanks [yumaheymans](https://github.com/yumaheymans)]
 
-### 9. QuillBot
+### 10. QuillBot
 - **Category:** Rewriting tool
 - **Best for:** paraphrasing, rewriting drafts
 - **Why use it:** QuillBot is useful when you already have text but want to improve how it sounds. It can help rephrase awkward sentences, simplify wording, or give a draft a slightly different tone without starting from scratch.
 - **Rating:** 8.6/10
 - **Link:** https://quillbot.com
 
-### 10. Notion AI
+### 11. Notion AI
 - **Category:** Writing and notes
 - **Best for:** note-taking, summaries, content drafting
 - **Why use it:** Notion AI is especially useful if you already live inside Notion. It helps turn rough notes into cleaner summaries, speeds up drafting, and makes it easier to organize ideas when you are juggling projects, docs, and planning in one place.
 - **Rating:** 8.9/10
 - **Link:** https://www.notion.so/product/ai
 
-### 11. Copy.ai
+### 12. Copy.ai
 - **Category:** GTM AI platform
 - **Best for:** sales and marketing workflows, prospecting, repurposing content
 - **Why use it:** Copy.ai started as a copywriting tool but is now a go-to-market AI platform that automates sales and marketing workflows, from lead research to personalized outreach. Acquired by Fullcast in 2025. Free plan available.
 - **Rating:** 8.2/10
 - **Link:** https://www.copy.ai
 
-### 12. Writesonic
+### 13. Writesonic
 [Attention please! Paid plans only: from $79/month]
 - **Category:** SEO content and AI search visibility
 - **Best for:** SEO articles, tracking brand mentions in AI search
@@ -138,14 +139,14 @@ So I made this one: a short, practical list of AI tools that are actually worth 
 - **Rating:** 8.4/10
 - **Link:** https://writesonic.com
 
-### 13. Wordtune
+### 14. Wordtune
 - **Category:** Writing assistant
 - **Best for:** improving tone and readability
 - **Why use it:** Wordtune is helpful when your text is already decent but needs to sound cleaner, smoother, or more natural. It is good for polishing wording rather than generating full pieces from scratch.
 - **Rating:** 8.3/10
 - **Link:** https://www.wordtune.com
 
-### 14. Humanize-Text
+### 15. Humanize-Text
 - **Category:** Open-source writing toolkit
 - **Best for:** configurable multi-stage rewriting
 - **Why use it:** Humanize-Text provides inspectable Python implementations of four text-humanization approaches, including a pipeline that combines LLM rewriting with cross-engine translation.
@@ -157,7 +158,7 @@ So I made this one: a short, practical list of AI tools that are actually worth 
 
 ## Image Generation & Design
 
-### 15. Midjourney
+### 16. Midjourney
 [Attention please! Paid plans only: from $10/month]
 - **Category:** Image generation
 - **Best for:** high-quality artistic visuals
@@ -165,42 +166,42 @@ So I made this one: a short, practical list of AI tools that are actually worth 
 - **Rating:** 9.4/10
 - **Link:** https://www.midjourney.com
 
-### 16. Leonardo AI
+### 17. Leonardo AI
 - **Category:** Image generation
 - **Best for:** design assets, concept art, game visuals
 - **Why use it:** Leonardo AI gives you a bit more flexibility when you need assets that feel tailored to a project. It is popular for design work, game-related visuals, and creative experimentation where control matters as much as style.
 - **Rating:** 9.0/10
 - **Link:** https://leonardo.ai
 
-### 17. Adobe Firefly
+### 18. Adobe Firefly
 - **Category:** Design AI
 - **Best for:** graphics, commercial-friendly creative work
 - **Why use it:** Firefly makes the most sense for people already using Adobe products. It fits neatly into existing creative workflows and is useful when you want AI features without leaving the tools you already know.
 - **Rating:** 8.7/10
 - **Link:** https://firefly.adobe.com
 
-### 18. Canva
+### 19. Canva
 - **Category:** Design platform
 - **Best for:** social posts, simple graphics, quick designs
 - **Why use it:** Canva is popular because it makes design accessible even if you are not a designer. It is fast, simple, and practical for creating social media graphics, presentations, simple brand assets, and everyday visual content.
 - **Rating:** 9.1/10
 - **Link:** https://www.canva.com
 
-### 19. Ideogram
+### 20. Ideogram
 - **Category:** Image generation
 - **Best for:** visuals with text
 - **Why use it:** Ideogram stands out because it handles text inside images better than many other image tools. That makes it especially useful for posters, covers, thumbnails, and other designs where typography matters.
 - **Rating:** 8.8/10
 - **Link:** https://ideogram.ai
 
-### 20. Playground
+### 21. Playground
 - **Category:** AI design platform
 - **Best for:** template-based graphics with AI image generation
 - **Why use it:** Playground (formerly Playground AI) combines AI image generation with a browser editor, templates, text overlays, and background removal. The free tier is limited (10 images per 3 hours), so it works best as a quick design tool rather than a free image generator.
 - **Rating:** 8.4/10
 - **Link:** https://playground.com
 
-### 21. PhotoRestore.ai
+### 22. PhotoRestore.ai
 - **Category:** Photo restoration & enhancement
 - **Best for:** restoring old, damaged, or faded photos
 - **Why use it:** PhotoRestore.ai uses AI to automatically repair scratches, tears, fading, and damage in old photos. It also colorizes black-and-white images. If you have old family photos or historical images that need rescuing, this is one of the simplest and fastest ways to do it without any manual editing.
@@ -212,35 +213,35 @@ So I made this one: a short, practical list of AI tools that are actually worth 
 
 ## Video
 
-### 22. Runway
+### 23. Runway
 - **Category:** AI video
 - **Best for:** video generation and editing
 - **Why use it:** Runway is one of the best-known names in AI video for a reason. It is useful for both generating clips and speeding up editing tasks, which makes it valuable for creators who want to experiment quickly without losing too much control.
 - **Rating:** 9.2/10
 - **Link:** https://runwayml.com
 
-### 23. Pika
+### 24. Pika
 - **Category:** AI video
 - **Best for:** short creative video generation
 - **Why use it:** Pika is a good fit when you want fast, visually interesting clips without overcomplicating the process. It is especially useful for short-form content, ideas, and testing creative concepts before spending more time on production.
 - **Rating:** 8.8/10
 - **Link:** https://pika.art
 
-### 24. CapCut
+### 25. CapCut
 - **Category:** Video editor
 - **Best for:** editing short-form content
 - **Why use it:** CapCut is practical, fast, and beginner-friendly, which is why so many people use it for short videos. It helps with editing, captions, and social-first content without demanding a steep learning curve.
 - **Rating:** 9.0/10
 - **Link:** https://www.capcut.com
 
-### 25. Descript
+### 26. Descript
 - **Category:** Video and podcast editing
 - **Best for:** editing by text, screen recordings, voice cleanup
 - **Why use it:** Descript is useful because it simplifies editing in a way that feels intuitive, especially for spoken content. If you work with podcasts, voiceovers, tutorials, or recorded interviews, it can save a lot of time.
 - **Rating:** 8.9/10
 - **Link:** https://www.descript.com
 
-### 26. Synthesia
+### 27. Synthesia
 - **Category:** AI avatar video
 - **Best for:** explainer and training videos
 - **Why use it:** Synthesia is designed for people who need polished talking-head style videos without filming themselves. It is especially practical for training content, onboarding, explainers, and business presentations.
@@ -251,35 +252,35 @@ So I made this one: a short, practical list of AI tools that are actually worth 
 
 ## Audio
 
-### 27. ElevenLabs
+### 28. ElevenLabs
 - **Category:** Voice AI
 - **Best for:** text-to-speech, voiceovers
 - **Why use it:** ElevenLabs is one of the strongest tools for realistic voice generation. It is especially useful for narration, videos, demos, and projects where robotic-sounding audio would immediately ruin the result.
 - **Rating:** 9.5/10
 - **Link:** https://elevenlabs.io
 
-### 28. Otter
+### 29. Otter
 - **Category:** Transcription
 - **Best for:** meetings, lecture notes, call summaries
 - **Why use it:** Otter is practical because it turns spoken conversations into searchable notes with very little effort. It is useful for meetings, interviews, classes, and any situation where writing everything down manually would be a waste of time.
 - **Rating:** 8.9/10
 - **Link:** https://otter.ai
 
-### 29. Murf
+### 30. Murf
 - **Category:** Voice generator
 - **Best for:** presentations, narration, voice content
 - **Why use it:** Murf is a solid option for people who need clean voice output for presentations or content without setting up a complicated audio workflow. It is easy to use and good for professional-style narration.
 - **Rating:** 8.3/10
 - **Link:** https://murf.ai
 
-### 30. Suno
+### 31. Suno
 - **Category:** AI music
 - **Best for:** generating songs and music ideas
 - **Why use it:** Suno is fun to use, but it is also surprisingly capable when you want quick music concepts. It works well for experimentation, demos, personal projects, and creative play without requiring music production skills.
 - **Rating:** 8.8/10
 - **Link:** https://suno.com
 
-### 31. Auphonic
+### 32. Auphonic
 - **Category:** Audio enhancement
 - **Best for:** podcasts and voice cleanup
 - **Why use it:** Auphonic is useful because it handles the kind of cleanup that normally takes extra time and attention. It is especially helpful for podcasting, interviews, and voice recordings that need to sound cleaner with minimal effort.
@@ -290,35 +291,35 @@ So I made this one: a short, practical list of AI tools that are actually worth 
 
 ## Coding
 
-### 32. GitHub Copilot
+### 33. GitHub Copilot
 - **Category:** Coding assistant
 - **Best for:** code suggestions, boilerplate, productivity
 - **Why use it:** GitHub Copilot is popular because it genuinely speeds up everyday coding. It is especially helpful for boilerplate, repetitive tasks, and getting unstuck when you already know roughly what you want to build.
 - **Rating:** 9.3/10
 - **Link:** https://github.com/features/copilot
 
-### 33. Cursor
+### 34. Cursor
 - **Category:** AI code editor
 - **Best for:** AI-assisted development workflows
 - **Why use it:** Cursor has become popular because it makes AI feel built into the coding process rather than bolted on. It is useful for editing, refactoring, navigating code, and staying inside one workflow while getting AI help.
 - **Rating:** 9.1/10
 - **Link:** https://www.cursor.com
 
-### 34. Replit
+### 35. Replit
 - **Category:** Online coding platform
 - **Best for:** quick prototyping and browser-based development
 - **Why use it:** Replit is great when you want to start building immediately without worrying about local setup. It is especially useful for small projects, experiments, learning, and fast prototypes you want to share quickly.
 - **Rating:** 8.6/10
 - **Link:** https://replit.com
 
-### 35. Devin Desktop (formerly Windsurf / Codeium)
+### 36. Devin Desktop (formerly Windsurf / Codeium)
 - **Category:** AI code editor
 - **Best for:** agentic coding, managing local and cloud coding agents
 - **Why use it:** Devin Desktop is a full IDE with autocomplete and debugging, built around AI agents that can plan and make multi-file changes for you. It lets you run and review several coding agents from one place. Free plan available.
 - **Rating:** 8.7/10
 - **Link:** https://devin.ai/desktop
 
-### 36. YYLO
+### 37. YYLO
 - **Category:** Open-source coding agent orchestrator (CLI)
 - **Best for:** orchestrating CLI coding agents with validation and merge boundaries
 - **Why use it:** YYLO runs several AI coding agents in parallel, each in its own Git worktree, and merges their results after validation. Aimed at advanced developers.
@@ -326,7 +327,7 @@ So I made this one: a short, practical list of AI tools that are actually worth 
 - **Link:** https://github.com/yylo-dev/yylo<br>
 [Thanks [InsightFactoryAPP](https://github.com/InsightFactoryAPP)]
 
-### 37. Agent QA
+### 38. Agent QA
 - **Category:** AI testing tool for web and mobile apps
 - **Best for:** checking app user flows after code changes
 - **Why use it:** Agent QA lets you write tests for web, Android, and iOS apps in plain language. When a step fails, it re-checks the screen and tries another way, and it learns from past runs. Free to use; you connect your own AI model, which may cost extra. Aimed at developers.
@@ -338,42 +339,42 @@ So I made this one: a short, practical list of AI tools that are actually worth 
 
 ## Research & Learning
 
-### 38. Gemini Notebook (formerly NotebookLM)
+### 39. Gemini Notebook (formerly NotebookLM)
 - **Category:** Research assistant
 - **Best for:** working with your own notes and sources
 - **Why use it:** Gemini Notebook (renamed from NotebookLM in July 2026) is especially useful when your research depends on material you already have. It helps turn notes, documents, and sources into something easier to explore, summarize, and learn from.
 - **Rating:** 9.0/10
 - **Link:** https://notebooklm.google
 
-### 39. Elicit
+### 40. Elicit
 - **Category:** Research tool
 - **Best for:** academic search and literature review
 - **Why use it:** Elicit is helpful when you need to work through research papers more efficiently. It is designed for structured research tasks, which makes it useful for students, analysts, and anyone doing literature-heavy work.
 - **Rating:** 8.7/10
 - **Link:** https://elicit.com
 
-### 40. Consensus
+### 41. Consensus
 - **Category:** Research search engine
 - **Best for:** evidence-based questions and academic topics
 - **Why use it:** Consensus stands out because it is centered around research papers instead of general web content. It is useful when you want answers that feel more grounded in studies than in random articles or opinions.
 - **Rating:** 8.7/10
 - **Link:** https://consensus.app
 
-### 41. ChatPDF
+### 42. ChatPDF
 - **Category:** PDF assistant
 - **Best for:** asking questions about documents
 - **Why use it:** ChatPDF is simple, practical, and easy to understand. It is useful when you have a document but do not want to read the whole thing line by line before finding the parts that matter.
 - **Rating:** 8.8/10
 - **Link:** https://www.chatpdf.com
 
-### 42. Wolfram Alpha
+### 43. Wolfram Alpha
 - **Category:** Computational knowledge engine
 - **Best for:** math, data, technical queries
 - **Why use it:** Wolfram Alpha is especially strong for questions that need computation instead of conversation. It is a dependable tool for math, formulas, structured facts, and technical lookups where accuracy matters more than style.
 - **Rating:** 8.9/10
 - **Link:** https://www.wolframalpha.com
 
-### 43. InnerCanvas
+### 44. InnerCanvas
 - **Category:** AI drawing reflection tool
 - **Best for:** private self-reflection through guided drawing exercises (adults only, not a diagnosis)
 - **Why use it:** InnerCanvas turns classic drawing exercises like House-Tree-Person into AI reflection reports that separate what's visible in the drawing from questions worth exploring. A private self-reflection tool, not a diagnosis. Free to try.
@@ -385,35 +386,35 @@ So I made this one: a short, practical list of AI tools that are actually worth 
 
 ## Productivity & Automation
 
-### 44. Zapier
+### 45. Zapier
 - **Category:** Automation
 - **Best for:** connecting apps and automating tasks
 - **Why use it:** Zapier is useful because it removes repetitive work without needing heavy technical skills. It is a practical choice for connecting common apps and saving time on routine processes that would otherwise be manual.
 - **Rating:** 9.1/10
 - **Link:** https://zapier.com
 
-### 45. Make
+### 46. Make
 - **Category:** Automation
 - **Best for:** visual workflow building
 - **Why use it:** Make is powerful for people who want more flexibility in how automations are built. It is a good choice when you want workflows that are more visual and customizable than simple one-step connections.
 - **Rating:** 9.0/10
 - **Link:** https://www.make.com
 
-### 46. Taskade
+### 47. Taskade
 - **Category:** Productivity
 - **Best for:** task management, outlines, collaboration
 - **Why use it:** Taskade is helpful for people who want notes, task planning, and AI help in one place. It works well for lightweight project organization without feeling overly heavy or corporate.
 - **Rating:** 8.3/10
 - **Link:** https://www.taskade.com
 
-### 47. Mem
+### 48. Mem
 - **Category:** Notes and organization
 - **Best for:** connected note-taking
 - **Why use it:** Mem is useful for capturing thoughts quickly and making them easier to find later. It is a good fit for people who want note-taking to feel lighter, smarter, and less rigid than traditional systems.
 - **Rating:** 8.1/10
 - **Link:** https://mem.ai
 
-### 48. Tana
+### 49. Tana
 - **Category:** Knowledge management
 - **Best for:** structured notes and workflows
 - **Why use it:** Tana is a strong option for people who like building structured systems around their thinking. It is especially useful for advanced note-takers, researchers, and people who treat information organization as part of their workflow.
@@ -424,7 +425,7 @@ So I made this one: a short, practical list of AI tools that are actually worth 
 
 ## Presentation Tools
 
-### 49. Gamma
+### 50. Gamma
 - **Category:** Presentation maker
 - **Best for:** fast decks and docs
 - **Why use it:** Gamma is useful when you want to turn rough ideas into something presentable quickly. It is a good choice for people who need speed and clarity more than full manual control over every visual detail.
@@ -435,21 +436,21 @@ So I made this one: a short, practical list of AI tools that are actually worth 
 
 ## Extra Useful Tools
 
-### 50. Character.AI
+### 51. Character.AI
 - **Category:** Conversational AI (18+)
 - **Best for:** entertainment, roleplay, interactive storytelling
 - **Why use it:** Character.AI is built around roleplay and creative interaction with AI characters rather than productivity. Open-ended chats are available to adults only; users under 18 lost access in late 2025.
 - **Rating:** 7.9/10
 - **Link:** https://character.ai
 
-### 51. Poe
+### 52. Poe
 - **Category:** AI platform
 - **Best for:** trying multiple models in one place
 - **Why use it:** Poe is convenient because it gives you access to different models without making you jump between multiple separate tools. It is especially useful for comparison, experimentation, and casual multi-model use.
 - **Rating:** 8.4/10
 - **Link:** https://poe.com
 
-### 52. Pi
+### 53. Pi
 - **Category:** Conversational AI
 - **Best for:** friendly, low-pressure everyday conversation
 - **Why use it:** Pi is designed for warm, supportive dialogue rather than productivity tasks. Note that development has slowed since most of Inflection's team moved to Microsoft in 2024, and usage limits apply.
@@ -497,5 +498,5 @@ Please keep submissions:
 
 <p align="center">
   Made with ❤️ by <a href="https://github.com/redictor">redictor</a><br>
-  <sub>Contributors: <a href="https://github.com/Kayvan-Zahiri">Kayvan-Zahiri</a> · <a href="https://github.com/fendouai">fendouai</a> · <a href="https://github.com/futurearrived">futurearrived</a> · <a href="https://github.com/happynocode">happynocode</a> · <a href="https://github.com/InsightFactoryAPP">InsightFactoryAPP</a> · <a href="https://github.com/pranshuchittora">pranshuchittora</a></sub>
+  <sub>Contributors: <a href="https://github.com/Kayvan-Zahiri">Kayvan-Zahiri</a> · <a href="https://github.com/fendouai">fendouai</a> · <a href="https://github.com/futurearrived">futurearrived</a> · <a href="https://github.com/happynocode">happynocode</a> · <a href="https://github.com/InsightFactoryAPP">InsightFactoryAPP</a> · <a href="https://github.com/pranshuchittora">pranshuchittora</a> · <a href="https://github.com/yumaheymans">yumaheymans</a></sub>
 </p>
