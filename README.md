@@ -335,6 +335,13 @@ So I made this one: a short, practical list of AI tools that are actually worth 
 - **Link:** https://github.com/vostride/agent-qa<br>
 [Thanks [pranshuchittora](https://github.com/pranshuchittora)]
 
+### 38. deed.page
+- **Category:** Hosting for AI coding agents
+- **Best for:** turning an HTML page or small static site an agent built into a shareable link
+- **Why use it:** deed.page lets Claude Code, Codex, Cursor and other agents publish HTML, CSS, JS and images to a permanent public URL with one curl request or its remote MCP server, then update or delete it later. No account or API key is needed to start. Free plan available; paid plans from $3/month.
+- **Rating:** Community project
+- **Link:** https://deed.page
+
 ---
 
 ## Research & Learning
