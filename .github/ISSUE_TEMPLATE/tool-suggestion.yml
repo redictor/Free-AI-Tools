@@ -1,0 +1,37 @@
+name: Tool suggestion
+description: Suggest an AI tool for the list
+title: "Tool suggestion: "
+
+body:
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Tool suggestion
+      value: |
+        Hi! I'd like to suggest a tool for the list.
+
+        **Position:** [number]b
+        <!-- Where to insert the tool: "21b" means right after #21 -->
+
+        ### [number]. [Tool name]
+        - **Category:** [what kind of tool it is]
+        - **Best for:** [main use cases]
+        - **Why use it:** [2-3 sentences about what makes it useful]
+        - **Rating:** [leave empty, set by maintainer]
+        - **Link:** [https://...]
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Submission checklist
+      options:
+        - label: "I have read and understood the [README and contribution guidelines](https://github.com/redictor/Free-AI-Tools#contributing)."
+          required: true
+        - label: "I confirm that the tool is relevant, useful, and not already listed."
+          required: true
+        - label: "I have accurately disclosed pricing, free access, and limitations."
+          required: true
+        - label: "I understand that the maintainer makes the final decision about inclusion and rating."
+          required: true
