@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/tools-55-2ea44f?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=24292e" alt="Tools">
   <img src="https://img.shields.io/github/stars/redictor/Free-AI-Tools?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e&color=f1c40f" alt="GitHub stars">
   <img src="https://img.shields.io/github/last-commit/redictor/Free-AI-Tools?style=for-the-badge&logo=git&logoColor=white&labelColor=24292e&color=8e44ad" alt="Last commit">
-  <a href="https://github.com/redictor/Free-AI-Tools/issues/new?template=tool-suggestion.md">
+  <a href="https://github.com/redictor/Free-AI-Tools/issues/new?template=tool-suggestion.yml">
     <img src="https://img.shields.io/badge/suggest%20a%20tool-%2B-e67e22?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" alt="Suggest a tool">
   </a>
 </p>
